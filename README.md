@@ -1,5 +1,5 @@
 # JS-web-scraping-bot
-Scraping bot to read and download information from public website to excel file.
+Scraping bot to read and download information from public website and save it to excel file.
 
 Да се напише скрипт Javascript (NodeJS) за да свалите данни от публичен сайт - 
 https://www.ok-power.de/fuer-strom-kunden/anbieter-uebersicht.html
